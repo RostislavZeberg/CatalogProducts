@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Sber SDX-43F2139",
+    "category": "Телевизор",
+    "description": "Компактный телевизор с ярким DLED-экраном и возможностью смотреть фильмы в Full HD-качестве.",
+    "price": 18898,
+    "image": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/168/439/229/425/112/3/100065767023b1.png"
+  },
+  {
+    "id": 2,
+    "name": "SKYLINE 32YST6570",
+    "category": "Телевизор",
+    "description": "Современный смарт-телевизор с поддержкой Wi-Fi и операционной системой Android. С его помощью вы сможете наслаждаться качественным изображением и широким спектром функциональных возможностей.",
+    "price": 12183,
+    "image": "https://foxmag.biz/image/cache/catalog/tv_audio/tv/img/6891251-0-500x500.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Topdevice TDTV24BS01H_BK",
+    "category": "Телевизор",
+    "description": "Современный четырехъядерный процессор последнего поколения Cortex A55 позволяет быстро обрабатывать любые команды.",
+    "price": 15438,
+    "image": "https://cdn1.ozone.ru/s3/multimedia-k/6537865904.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Harper 65U661TS",
+    "category": "Телевизор",
+    "description": "Harper 32R690TS – это хорошо сбалансированный, достаточно производительный SMART телевизор с большими возможностями.",
+    "price": 12439,
+    "image": "https://cdn1.ozone.ru/s3/multimedia-o/6392945244.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Philips 65PUS8139/60",
+    "category": "Телевизор",
+    "description": "Технология 4K UHD У экрана в четыре раза больше пикселей, чем у Full HD, что делает картинку более детальной, четкой и яркой.",
+    "price": 52649,
+    "image": "https://cdn1.ozone.ru/s3/multimedia-o/6392945244.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Philips 65PUS8139/60",
+    "category": "Смартфон",
+    "description": "Качество изображений автоматически оптимизируется, система самостоятельно подберет подходящие настройки.",
+    "price": 25901,
+    "image": "https://cdn1.ozone.ru/s3/multimedia-v/6809604583.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ozon i15",
+    "category": "Смартфон",
+    "description": "Смартфон оснащен 3 ГБ оперативной памяти и 3 ГБ встроенной памяти, что обеспечивает быструю и плавную работу приложений и игр.",
+    "price": 7801,
+    "image": "https://cdn1.ozone.ru/s3/multimedia-i/c600/6708609522.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Note30",
+    "category": "Смартфон",
+    "description": "Большой экран с AMOLED-матрицей обеспечивает яркие и насыщенные цвета, а также высокую контрастность.",
+    "price": 5335,
+    "image": "https://ir.ozone.ru/s3/multimedia-t/c1000/6553158353.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Realm 12 4G",
+    "category": "Смартфон",
+    "description": "Это устройство, которое сочетает в себе передовые технологии и стильный дизайн.",
+    "price": 16820,
+    "image": "https://static.onlinetrade.ru/img/items/m/smartfon_realme_12_4g_8_512gb_zelenyy_3115821_1.JPG"
+  },
+  {
+    "id": 10,
+    "name": "Xiaomi Poco C61 4/128 ГБ Global",
+    "category": "Смартфон",
+    "description": "Смартфон оснащен 6,71-дюймовым экраном с разрешением 1650x720 пикселей, что обеспечивает чёткое и яркое изображение.",
+    "price": 7910,
+    "image": "https://pcdn.goldapple.ru/p/p/19000203885/imgmain.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Samsung Galaxy A55 5G 8/128 ГБ",
+    "category": "Смартфон",
+    "description": "Экран поддерживает высокую герцовку, производительный процессор справится с тяжёлыми приложениями, камера может запечатлеть мельчайшие детали, а предустановленная ОС Android 14 открывает доступ к новейшим функциям.",
+    "price": 29720,
+    "image": "https://telemarket24.ru/upload/resizer2/1/b3f/b3f91def215135c2c61aaba72fad7b64.JPG"
+  },
+  {
+    "id": 12,
+    "name": "Lenovo Thinkplus Live Pods GM2 Pro",
+    "category": "Наушники",
+    "description": "Беспроводные наушники Lenovo Thinkplus Live Pods GM2 Pro обладают превосходным объёмным звучанием и совместимы с голосовым помощником SIRI.",
+    "price": 998,
+    "image": "https://ir.ozone.ru/s3/multimedia-c/c1000/6708758088.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Hoco M97 для телефона вакуумные",
+    "category": "Наушники",
+    "description": "Наушники с микрофоном Hoco M97 - это высококачественные вакуумные наушники для телефона, которые обеспечивают отличное звучание и комфорт при использовании.",
+    "price": 143,
+    "image": "https://cenalom.ru/media/products/000/169/480/1.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Huawei FreeBuds 5i",
+    "category": "Наушники",
+    "description": "Элегантные беспроводные наушники в овальном кейсе характеризуются чистым звучанием, хорошей автономностью, шумоподавлением на базе искусственного интеллекта и простотой управления.",
+    "price": 3950,
+    "image": "https://cdn1.ozone.ru/s3/multimedia-0/6569385936.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Red Square StoneKing V2",
+    "category": "Наушники",
+    "description": "Игровые наушники Red Square StoneKing V2 займут достойное место в арсенале геймера. Они пригодятся и тем, кто любит музыку и фильмы.",
+    "price": 496,
+    "image": "https://i2hard.ru/upload/iblock/868/86842a9fff61deeb42ca88669fe19a87.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Samsung Galaxy Tab A9+ Wi-Fi 64GB",
+    "category": "Планшет",
+    "description": "В основе модели лежит восьмиядерный процессор Qualcomm Snapdragon 695 5G, частота которого достигает 2,2 ГГц.",
+    "price": 15499,
+    "image": "https://ir.ozone.ru/s3/multimedia-1-3/c1000/6911957379.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Xiaomi Redmi Pad SE 11",
+    "category": "Планшет",
+    "description": "Ваш надежный спутник для работы и развлечений, сочетающий в себе функциональность, стиль и передовые технологии.",
+    "price": 17108,
+    "image": "https://store123.ru/upload/iblock/20e/97u7zfz7fpituzztd9ycishzo58b8248.jpg"
+  },
+  {
+    "id": 18,
+    "name": "X Prime P70 Ultra",
+    "category": "Планшет",
+    "description": "Планшет работает на базе операционной системы Android 13, что позволяет пользователю устанавливать различные приложения и игры из Google Play.",
+    "price": 7132,
+    "image": "https://elets.hatiko.ru/wa-data/public/shop/products/02/18/11802/images/27538/27538.700.jpg"
+  },
+  {
+    "id": 19,
+    "name": "TECLAST P30 4/128 GB T606 Wi-Fi",
+    "category": "Планшет",
+    "description": "Благодаря Android 14 планшет P30 обеспечивает горизонтальный параллельный просмотр, удобную панель задач для эффективной многозадачности и надежные возможности родительского контроля для безопасного использования.",
+    "price": 8015,
+    "image": "https://img.mvideo.ru/Pdb/400392390b2.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Fplus T1100 11",
+    "category": "Планшет",
+    "description": "Планшет F+ T1100 - это современное устройство в алюминиевом корпусе, которое сочетает в себе функциональность и стиль.",
+    "price": 7144,
+    "image": "https://static.tildacdn.com/tild3538-3530-4366-b066-326366613863/_T1100_1.png"
+  },
+  {
+    "id": 21,
+    "name": "Digma Optima 8306C 4/64ГБ 8",
+    "category": "Планшет",
+    "description": "Откройте двери к бесконечному потоку технологических прорывов с планшетом Digma Optima 8306C.",
+    "price": 8603,
+    "image": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-16/235/815/065/221/95/600018299324b11.png"
+  }
+]
+
+

@@ -1,0 +1,1 @@
+export { ShowAllProducts } from '../../components/CardList/ShowAllProducts';
