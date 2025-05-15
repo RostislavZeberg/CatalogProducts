@@ -21,6 +21,6 @@
 5. На странице редактирование карточки товара реализован метод изменения цены товара.
 6. Реализована пагинация.
 7. Получение данных осуществляется из файла json, сохранение данных осуществляется в context, при перезагрузки данные обновляются.
-8. Использовались: hookform/resolvers, tanstack/react-query, react-dom, react-hook-form, react-redux, react-router-dom, zod.
+8. Использовались:  React, React DOM, React Router DOM, React Hook Form, Zod, @hookform/resolvers, @tanstack/react-quer, Redux, React Redux, Vite, ESLint, @vitejs/plugin-react, Sass, sass-embedded.
 ### Приложение запускается на dev сервере командой npm run dev.
 ### Сборка Приложение - команда npm run build.
